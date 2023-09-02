@@ -1,1 +1,1 @@
-Simple MineSweepr game created in Java
+Simple MineSweeper game created in Java
